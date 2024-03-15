@@ -13,6 +13,12 @@ topics:
 
 Building an application that integrates with {% data variables.product.prodname_dotcom %}? Register for our Developer Program! The possibilities are endless, and you enjoy the kudos. [Register now](https://github.com/developer/register).
 
+
+## Join the GitHub Developer Program
+
+Purpose: If you're building an application that integrates with GitHub, joining the GitHub Developer Program can offer numerous benefits. It's designed for both individual developers and companies.
+Benefits: As a member, you can build your own tools that integrate with GitHub, potentially taking your project or business to the next level. You'll have the opportunity to showcase your integration and gain recognition within the GitHub community.
+
 ## Scratch an itch
 
 Build your own tools that seamlessly integrate with the place you push code every day.
@@ -34,3 +40,6 @@ Membership is open to individual developers and companies who have:
 
 - An integration in production or development using the GitHub API.
 - An email address where GitHub users can contact you for support.
+
+Join today and be a part of a community that's shaping the future of development!
+
